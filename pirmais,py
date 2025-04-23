@@ -1,0 +1,6 @@
+print("Ievadi skaitli")
+skaitlis = int(input())
+if skaitlis % 2 == 0:
+    print(skaitlis, "ir pāra")
+else:
+    print(skaitlis, "ir nepāra")
